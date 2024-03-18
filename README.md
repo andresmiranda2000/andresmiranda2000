@@ -63,8 +63,7 @@
 
 <p align="center">
 	<a href="https://github.com/andresmiranda2000">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=andresmiranda2000&show_icons=true" alt="bouaskaoun">
-	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=andresmiranda2000" alt="bouaskaoun">
+	<img width="100%" src="https://github-readme-stats.vercel.app/api?username=andresmiranda2000&show_icons=true" alt="">
 	</a>
 	<br/>
 </p>
