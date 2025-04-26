@@ -6,7 +6,7 @@
 <pre>
 💻 I am a Full Stack Developer focused on front end development.
 📝 I have a strong interest in UX/UI.
-🔭 Working at KRÜ Esports/Fitchin.
+🔭 Working at Sports Events.
 🌱 Learning about Computer stuff.
 </pre>
 <hr>
